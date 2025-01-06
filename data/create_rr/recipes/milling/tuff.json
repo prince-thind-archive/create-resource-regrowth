@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:deepslate"
+    }
+  ],
+  "processingTime": 500,
+  "results": [
+    {
+      "item": "minecraft:tuff"
+    }
+  ]
+}

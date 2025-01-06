@@ -1,0 +1,20 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:charcoal"
+    }, {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "amount": 100,
+      "fluid": "minecraft:lava"
+    }
+  ],
+ "results": [
+    {
+        "item": "minecraft:coal"
+    }
+]
+
+}

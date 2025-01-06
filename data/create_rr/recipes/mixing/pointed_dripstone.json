@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:stick"
+    }, {
+      "item": "create:limestone"
+    }, {
+      "item": "minecraft:dirt"
+    },
+    
+    {
+      "fluid": "minecraft:lava",
+"amount":100
+    }
+  ],
+ "results": [
+    {
+        "item": "minecraft:pointed_dripstone"
+    }
+]
+
+}
